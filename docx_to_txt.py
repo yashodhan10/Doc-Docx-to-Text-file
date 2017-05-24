@@ -2,7 +2,7 @@
 import docx2txt
 import os
 from win32com import client
-import PyPDF2 as pyPdf
+#import PyPDF2 as pyPdf
 from docx import Document
 import re
 from docx.document import Document as _Document
